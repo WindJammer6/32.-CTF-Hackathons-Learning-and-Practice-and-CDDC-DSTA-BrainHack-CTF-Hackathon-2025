@@ -12,6 +12,8 @@ called PicoCTF 2017.
 In the video he went through many tools used in Cybersecurity and how to answer
 CTF questions and its various categories.
 
+Talk about DSTA BrainHack CTF hackathon. quote their website
+
 
 I learnt Bash too officially! It's slightly different from high elves programming languages 
 like Python and Java, but it's a command programming language instead.
