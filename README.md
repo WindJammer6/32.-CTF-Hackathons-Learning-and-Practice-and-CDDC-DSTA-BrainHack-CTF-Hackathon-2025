@@ -1,6 +1,9 @@
 # 32.-DSTA-BrainHack-CTF-Hackathon-2025
 Prior to this hackathon, I knew next to nothing about Cybersecurity.
 
+This repo stores my documentation of my learning journey to taking part in 
+this hackathon, my first CTF hackathkn.
+
 But I have learnt alot in preperation for this hackathon.
 
 Learnt from a previous international CTF organised by Carnegie Mellon University (CMU)
