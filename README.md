@@ -29,5 +29,7 @@ John Hammond youtube
 
 add dsta brainhack website as well
 
+show in jeopardy style the common categories binary exploitation. cryptography, forensics tat I was able to explore and crack questions about
+
 
 DSTA BrainHack Hackathon 2025 result:
