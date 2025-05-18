@@ -1,4 +1,4 @@
-# 32.-DSTA-BrainHack-CTF-Hackathon-2025
+# 32.-CTF-Hackathons-Learning-and-Practice-and-DSTA-BrainHack-CTF-Hackathon-2025
 Prior to this hackathon, I knew next to nothing about Cybersecurity.
 
 This repo stores my documentation of my learning journey to taking part in 
@@ -31,5 +31,6 @@ add dsta brainhack website as well
 
 show in jeopardy style the common categories binary exploitation. cryptography, forensics tat I was able to explore and crack questions about
 
+talk unfortunately I won't have time to do a write up for dsta brainhack hackathon due to time constraints, but is my standing from it (qualifying)
 
 DSTA BrainHack Hackathon 2025 result:
