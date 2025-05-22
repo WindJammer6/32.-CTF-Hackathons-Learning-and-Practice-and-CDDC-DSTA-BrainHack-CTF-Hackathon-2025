@@ -12,7 +12,7 @@ I have learnt much about CTF hackathons, and more importantly, about cybersecuri
 **Disclaimer:**  
 - [PicoCTF 2017](https://www.picoctf.org/) is a past CTF hackathon, and all of its resources has long since been taken down by the [PicoCTF](https://www.picoctf.org/) website. Only CTF questions on the current [PicoCTF 2025](https://www.picoctf.org/) exists on the website. Hence, the website links and resources in the [John Hammond's YouTube playlist about 'Getting Started in CTF: PicoCTF 2017'](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVTu-v1XcJV9VVdhEEALvkY) no longer exists on the [PicoCTF website](https://www.picoctf.org/).
 
-To tackle this issue, I went to google around I found write-ups about the [PicoCTF 2017](https://www.picoctf.org/) CTF questions, on GitHub and was lucky to find some the CTF questions, and resources that I could play around with (though limited) from [PicoCTF 2017](https://www.picoctf.org/), which helped with my learning. Here are the write-ups about the [PicoCTF 2017](https://www.picoctf.org/) CTF questions I referened to:
+  To tackle this issue, I went to google around I found write-ups about the [PicoCTF 2017](https://www.picoctf.org/) CTF questions, on GitHub and was lucky to find some the CTF questions, and resources that I could play around with (though limited) from [PicoCTF 2017](https://www.picoctf.org/), which helped with my learning. Here are the write-ups about the [PicoCTF 2017](https://www.picoctf.org/) CTF questions I referened to:
   - https://github.com/pdelteil/picoctf_2017_writeup (pdelteil) (the main write-up I referenced to)
   - https://github.com/vabhishek-me/picoctf-2017-write-up (vabhishek-me)
 
@@ -20,12 +20,10 @@ To tackle this issue, I went to google around I found write-ups about the [PicoC
 
 <br>
 
-What are Capture-The-Flag (CTF) hackathons?
+## What are Capture-The-Flag (CTF) hackathons?
 Capture-the-Flag (CTF) hacking competitions are exactly like the first-person shooter game mode. One team of players attempts to locate and capture an opposing team's "flag" while also defending their flag. 
 
 In CTF competitions, the flag is typically a snippet of code, a piece of hardware on a network, or perhaps a file. In other cases, the competition may progress through a series of questions, like a race.
-
-They can either be single events or ongoing challenges, typically falling into three main categories: Jeopardy, Attack-Defense, and mixed events.
 
 <br>
 
@@ -38,7 +36,7 @@ Note: [PicoCTF](https://www.picoctf.org/) and [Cyber Defenders Discovery Camp (C
 
 <br>
 
-In a CTF hackathon, there are generally different types of categories. Here are the common ones (applies across all CTF hackathon formats),  
+In a CTF hackathon, there are generally different types of categories. Here are the common ones (applies across all CTF hackathon formats):
 | Category               | What It Involves                                                                 |
 |------------------------|----------------------------------------------------------------------------------|
 | 🔍 Web Exploitation     | Finding bugs in websites (e.g., XSS, SQLi, authentication flaws)                |
