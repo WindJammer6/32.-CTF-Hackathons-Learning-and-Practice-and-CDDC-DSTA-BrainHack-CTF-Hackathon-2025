@@ -1,6 +1,10 @@
 # 32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025 🚩🛡️
 This repository stores my learning process about Capture-The-Flag (CTF) Cybersecurity hackahtons, as well as some information about the first CTF hackathon I took part in, the [Cyber Defenders Discovery Camp (CDDC) Defence Science and Technology Agency (DSTA) BrainHack CTF Hackathon 2025](https://www.dstabrainhack.com/activities-cddc). [Defence Science and Technology Agency (DSTA)](https://www.dsta.gov.sg/) is a statutory board under the purview of the Ministry of Defence of the Government of Singapore.
 
+<p align="center">
+  <img src="https://ctftime.org/media/events/picoCTF_logo_4c.png" width="250"/>
+</p>
+
 Prior to this CTF hackathon, I knew next to nothing about cybersecurity, much less about CTF hackathons. So, in order to start out, I googled around and stumbled upon [John Hammond's YouTube playlist about 'Getting Started in CTF: PicoCTF 2017'](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVTu-v1XcJV9VVdhEEALvkY), and decided I will start my cybersecurity and CTF hackathon journey here. Turns out, in this YouTube playlist, he is basically just going through CTF questions from a past international CTF hackathon, [PicoCTF 2017](https://www.picoctf.org/), organised by [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I decided to do my own write up on his videos to explain to myself how to answer the CTF questions, from the perspective of someone with some prior knowledge in some programming languages (Python, Java, SQL, JavaScript, HTML, CSS, etc.), but with no prior knowledge on the Internet, Bash command-line language, etc. (because this was the skill level I was at at the time of writing this write up).
 
 This repository stores this write up, and some information about the first CTF hackathon I took part in, the [Cyber Defenders Discovery Camp (CDDC) Defence Science and Technology Agency (DSTA) BrainHack CTF Hackathon 2025](https://www.dstabrainhack.com/activities-cddc). 
@@ -53,6 +57,10 @@ Source:
 <br>
 
 ## About the Cyber Defenders Discovery Camp (CDDC) Defence Science and Technology Agency (DSTA) BrainHack CTF Hackathon 2025
+<p align="center">
+  <img src="https://static.wixstatic.com/media/807b15_524e092c9d7541589d621cd0e9bf6e4b~mv2.jpg/v1/fill/w_1200,h_627,al_c,q_85/brainhack2024-meta-preview.jpg" width="400"/>
+</p>
+
 Unfortunately I won't have time to do a write up for this CTF hackathon that I took part in due to time constraints, but is my standing from it (qualifying)
 
 DSTA BrainHack Hackathon 2025 result:
