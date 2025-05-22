@@ -18,7 +18,7 @@ Talk about DSTA BrainHack CTF hackathon. quote their website
 I learnt Bash too officially! It's slightly different from high elves programming languages 
 like Python and Java, but it's a command programming language instead.
 
-talk about the writeup
+talk about my writeup and the write up I referenced to that github profile 
 
 the writeup is incomplete only for Level 1 and some level 2 CGF questions for f PicoCTF (likely is won't finish jt)
 
