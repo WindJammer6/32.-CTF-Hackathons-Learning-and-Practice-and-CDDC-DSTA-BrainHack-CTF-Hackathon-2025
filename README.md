@@ -1,5 +1,5 @@
 # 32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025 🚩🛡️
-This repository stores my learning process about Capture-The-Flag (CTF) Cybersecurity hackahtons, as well as some information about the first CTF hackathon I took part in, the [Cyber Defenders Discovery Camp (CDDC) Defence Science and Technology Agency (DSTA) BrainHack CTF Hackathon 2025](https://www.dstabrainhack.com/activities-cddc). [Defence Science and Technology Agency (DSTA)](https://www.dsta.gov.sg/) is a statutory board under the purview of the Ministry of Defence of the Government of Singapore.
+This repository stores my learning process about Capture-The-Flag (CTF) Cybersecurity hackathons, as well as some information about the first CTF hackathon I took part in, the [Cyber Defenders Discovery Camp (CDDC) Defence Science and Technology Agency (DSTA) BrainHack CTF Hackathon 2025](https://www.dstabrainhack.com/activities-cddc). [Defence Science and Technology Agency (DSTA)](https://www.dsta.gov.sg/) is a statutory board under the purview of the Ministry of Defence of the Government of Singapore.
 
 <p align="center">
   <img src="https://ctftime.org/media/events/picoCTF_logo_4c.png" width="250"/>
@@ -63,4 +63,19 @@ Source:
 
 Unfortunately I won't have time to do a write up for this CTF hackathon that I took part in due to time constraints, but is my standing from it (qualifying)
 
-DSTA BrainHack Hackathon 2025 result:
+DSTA BrainHack Hackathon 2025 results:  
+Training phase (just for fun):  
+Screenshots of my attempts in the training phase:
+<p align="center">
+  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%201.png" width="250"/>
+    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%202.pngg" width="250"/>
+    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%203.png" width="250"/>
+</p>
+
+
+Qualifers phase:
+
+
+
+
+Unfortunately did not make it to finals :( they only took top 100 teams for finals, my team ended at **109th** in position out of 400+ teams.
