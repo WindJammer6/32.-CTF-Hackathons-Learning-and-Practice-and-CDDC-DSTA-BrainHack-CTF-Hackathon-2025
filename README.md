@@ -85,9 +85,8 @@ Screenshots of my standing in the training phase (my username is WindJammer6!):
 **Qualifers phase:**  
 Screenshots of my standing in the qualifiders phase (my team name is Comptooter Science!):
 <p align="center">
-  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%201.png" width=750/>
-    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%202.png""/>
-    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%203.png""/>
+  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Qualifiers%20Ranking%20Image%201.jpg" width=300/>
+    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Qualifiers%20Ranking%20Image%202.jpg" width=300/>
 </p>
 
 
