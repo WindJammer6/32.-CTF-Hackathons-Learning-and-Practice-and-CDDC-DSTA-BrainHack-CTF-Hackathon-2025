@@ -67,9 +67,9 @@ DSTA BrainHack Hackathon 2025 results:
 Training phase (just for fun):  
 Screenshots of my attempts in the training phase:
 <p align="center">
-  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%201.png" width="250"/>
-    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%202.pngg" width="250"/>
-    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%203.png" width="250"/>
+  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%201.png"/>
+    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%202.png""/>
+    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%203.png""/>
 </p>
 
 
