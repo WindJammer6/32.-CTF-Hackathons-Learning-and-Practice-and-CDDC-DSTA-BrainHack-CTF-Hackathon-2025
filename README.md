@@ -61,21 +61,33 @@ Source:
   <img src="https://static.wixstatic.com/media/807b15_524e092c9d7541589d621cd0e9bf6e4b~mv2.jpg/v1/fill/w_1200,h_627,al_c,q_85/brainhack2024-meta-preview.jpg" width="400"/>
 </p>
 
-Unfortunately I won't have time to do a write up for this CTF hackathon that I took part in due to time constraints, but is my standing from it (qualifying)
+[Cyber Defenders Discovery Camp (CDDC) Defence Science and Technology Agency (DSTA) BrainHack CTF Hackathon 2025](https://www.dstabrainhack.com/activities-cddc) is a Jeopardy-Style CTF hackathon structured with,
+- 2 weeks of Training phase
+- 1 day of Qualifiers phase
+- 2 days of Finals phase (only top 100 teams are chosen)
 
-DSTA BrainHack Hackathon 2025 results:  
-Training phase (just for fun):  
-Screenshots of my attempts in the training phase:
+Unfortunately did not make it to finals, they only took top 100 teams (Overall category) for finals, my team ended at **109th** place out of 400+ teams (Overall category) (so close!!! :() and **64th** place out of 200+ teams (University category) that participated in the Qualifiers phase.
+
+I won't have time to do a write up for the questions in this CTF hackathon that I took part in due to time constraints.
+
+It was still a really enjoyable experience, and while I did not make it to the finals phase, I felt like I had a big push in my understanding of the theory and tools used in the field of Cybersecurity throughout my first CTF hackathon at the [Cyber Defenders Discovery Camp (CDDC) Defence Science and Technology Agency (DSTA) BrainHack CTF Hackathon 2025](https://www.dstabrainhack.com/activities-cddc).
+
+### DSTA BrainHack Hackathon 2025 results:  
+**Training phase (just for fun):**  
+Screenshots of my standing in the training phase (my username is WindJammer6!):
 <p align="center">
-  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%201.png"/>
+  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%201.png" width=750/>
+    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%202.png" width=750/>
+    <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%203.png" width=750/>
+</p>
+
+
+**Qualifers phase:**
+Screenshots of my standing in the qualifiders phase (my team name is Comptooter Science!):
+<p align="center">
+  <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%201.png" width=750/>
     <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%202.png""/>
     <img src="https://github.com/WindJammer6/32.-CTF-Hackathons-Learning-and-Practice-and-CDDC-DSTA-BrainHack-CTF-Hackathon-2025/blob/main/CDDC%20DSTA%20BrainHack%20CTF%20Hackathon%202025%20Training%20Ranking%20Image%203.png""/>
 </p>
 
 
-Qualifers phase:
-
-
-
-
-Unfortunately did not make it to finals :( they only took top 100 teams for finals, my team ended at **109th** in position out of 400+ teams.
